@@ -1,4 +1,4 @@
-# guiadeperguntas forum para perguntas e respostas
+# Fórum de perguntas
 - Tecnologias utilizadas
 - Nodejs
 - Mysql
