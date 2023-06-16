@@ -1,5 +1,5 @@
 # Fórum de perguntas
-- Tecnologias utilizadas
+Tecnologias utilizadas
 - Nodejs
 - Mysql
 - Html e Css
